@@ -1,6 +1,6 @@
 # CV-TYHM-2021
 
-Esta es la entrega de trabajo completo de Modulo 1- Creacion de textos e Hipertextos
+Esta es la entrega de trabajo completo de Modulo 1- Creacion de textos e Hipertextos y los demás módulos de TYHM-2021.
 
 <p>
 
